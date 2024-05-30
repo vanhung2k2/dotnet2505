@@ -8,16 +8,30 @@ namespace bai_4
 {
     internal class Program
     {
+        static void nhap(out long n)
+        {
+            do
+            {
+                Console.Write("Nhap a = ");
+                try
+                {
+                    n = long.Parse(Console.ReadLine());
+                    break;
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("Du lieu nhap vao khong hop le. Vui long nhap mot so.");
+                }
+            } while (true);
+        }
         static void Main(string[] args)
         {
             long a;
-            Console.WriteLine("Nhap so a :");
-            a = long.Parse(Console.ReadLine());
-            
+            nhap( out a);
             long giaithua = 1;
-            for(int  i = 1; i <= a; i++)
+            for (int i = 1; i <= a; i++)
             {
-                giaithua*= i;
+                giaithua *= i;
             }
             Console.WriteLine($"Giai thua cua a la : {giaithua}");
         }

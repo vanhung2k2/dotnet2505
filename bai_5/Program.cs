@@ -23,12 +23,26 @@ namespace bai_5
             }
             return true;
         }
+        static void nhap(out long n)
+        {
+            do
+            {
+                Console.WriteLine("Nhap so n :");
+                try
+                {
+                    n = long.Parse(Console.ReadLine());
+                    break;
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("Du lieu nhap vao khong hop le. Vui long nhap mot so.");
+                }
+            } while (true);
+        }
         static void Main(string[] args)
         {
-            int n;
-            Console.WriteLine("Nhap so n :");
-            n = int.Parse(Console.ReadLine());
-
+            long n;
+            nhap(out n);
             for (int i = 0; i < n; i++)
             {
                 if (nto(i)) Console.Write(i + " ");

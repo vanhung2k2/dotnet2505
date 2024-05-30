@@ -8,17 +8,33 @@ namespace bai_2
 {
     internal class Program
     {
+        static void nhap(out double n)
+        {
+            do
+            {
+                //Console.Write("Nhap a = ");
+                try
+                {
+                    n = double.Parse(Console.ReadLine());
+                    break;
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("Du lieu nhap vao khong hop le. Vui long nhap mot so.");
+                }
+            } while (true);
+        }
         static void Main(string[] args)
         {
             double a, b, c;
             double x = 0;
             Console.WriteLine("Nhap a , b ,c ");
 
-            a = double.Parse(Console.ReadLine());
-            b = double.Parse(Console.ReadLine());
-            c = double.Parse(Console.ReadLine());
+            nhap(out a);
+            nhap(out b);
+            nhap(out c);
 
-            Console.WriteLine($"Ham vua nhap la : {a}x^2 +{b}x + c ");
+            Console.WriteLine($"Ham vua nhap la : {a}x^2 +{b}x + {c} ");
 
             if (a == 0)
             {
