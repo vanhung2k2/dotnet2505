@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\Demo27_5net\bai_6\bin\Debug\bai_6.exe.config
+C:\Users\PC\source\repos\Demo27_5net\bai_6\bin\Debug\bai_6.exe
+C:\Users\PC\source\repos\Demo27_5net\bai_6\bin\Debug\bai_6.pdb
+C:\Users\PC\source\repos\Demo27_5net\bai_6\obj\Debug\bai_6.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Demo27_5net\bai_6\obj\Debug\bai_6.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\Demo27_5net\bai_6\obj\Debug\bai_6.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Demo27_5net\bai_6\obj\Debug\bai_6.exe
+C:\Users\PC\source\repos\Demo27_5net\bai_6\obj\Debug\bai_6.pdb

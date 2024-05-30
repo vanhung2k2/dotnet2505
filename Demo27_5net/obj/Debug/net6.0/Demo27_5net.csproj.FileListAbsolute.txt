@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Demo27_5net\Demo27_5net\obj\Debug\net6.0\Demo27_5net.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Demo27_5net\Demo27_5net\obj\Debug\net6.0\Demo27_5net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Demo27_5net\Demo27_5net\obj\Debug\net6.0\Demo27_5net.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Demo27_5net\Demo27_5net\obj\Debug\net6.0\Demo27_5net.AssemblyInfo.cs
+C:\Users\PC\source\repos\Demo27_5net\Demo27_5net\obj\Debug\net6.0\Demo27_5net.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Demo27_5net\Demo27_5net\bin\Debug\net6.0\Demo27_5net.exe
+C:\Users\PC\source\repos\Demo27_5net\Demo27_5net\bin\Debug\net6.0\Demo27_5net.deps.json
+C:\Users\PC\source\repos\Demo27_5net\Demo27_5net\bin\Debug\net6.0\Demo27_5net.runtimeconfig.json
+C:\Users\PC\source\repos\Demo27_5net\Demo27_5net\bin\Debug\net6.0\Demo27_5net.dll
+C:\Users\PC\source\repos\Demo27_5net\Demo27_5net\bin\Debug\net6.0\Demo27_5net.pdb
+C:\Users\PC\source\repos\Demo27_5net\Demo27_5net\obj\Debug\net6.0\Demo27_5net.dll
+C:\Users\PC\source\repos\Demo27_5net\Demo27_5net\obj\Debug\net6.0\refint\Demo27_5net.dll
+C:\Users\PC\source\repos\Demo27_5net\Demo27_5net\obj\Debug\net6.0\Demo27_5net.pdb
+C:\Users\PC\source\repos\Demo27_5net\Demo27_5net\obj\Debug\net6.0\Demo27_5net.genruntimeconfig.cache
+C:\Users\PC\source\repos\Demo27_5net\Demo27_5net\obj\Debug\net6.0\ref\Demo27_5net.dll
